@@ -1,0 +1,11 @@
+                        NS      ns1.bind.net.
+                        NS      ns2.bind.net.
+                        NS      ns3.bind.net.
+                        NS      ns4.bind.net.
+
+@                       A       91.121.101.210
+@                       MX      7 familiekainz.at.
+@                       AAAA    2001:41d0:1:9ad2::1
+*                       A       91.121.101.210
+*                       AAAA    2001:41d0:1:9ad2::1
+
