@@ -13,7 +13,7 @@
 *                       A       91.121.101.210
 *                       AAAA    2001:41d0:1:9ad2::1
 
-bmc                     CNAME   mlang.github.io
+bmc                     CNAME   mlang.github.io.
 
 home                    A       80.109.200.215
 home                    SSHFP   1 1 049608d08bbc44a9974aa41b4d04f57692a94c9b
