@@ -17,7 +17,7 @@ mail._domainkey		TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDH
 
 bmc                     CNAME   mlang.github.io.
 
-home                    A       80.109.194.183
+home                    A       84.115.55.45
 home                    SSHFP   1 1 049608d08bbc44a9974aa41b4d04f57692a94c9b
 home                    SSHFP   1 2 994dcdc9d6262ca57ff068eb9255e9bdc626558b7738db5c29cf9b34dbcb9f96
 home                    SSHFP   2 1 b44bf1b020a5357aedf6cd35e2d0dd5aa6769756
