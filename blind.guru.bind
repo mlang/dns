@@ -4,23 +4,15 @@
                         NS      ns4.luadns.net.
                         NS      ns5.luadns.net.
 
-@                       A       91.121.101.210
+@                       A       37.187.20.171
 @                       MX      7 familiekainz.at.
-@                       AAAA    2001:41d0:1:9ad2::1
-@                       SSHFP   1 1 691525e599f007bc93f0813cb87a9699f924f996
-@                       SSHFP   2 1 4bb3d8f422c79835ee045bcf113950f61b610501
-@                       TXT     "v=spf1 mx a ip4:91.121.101.210 ip6:2001:41d0:1:9ad2::1 -all"
+@                       AAAA    2001:41d0:a:14ab::1
+@                       TXT     "v=spf1 mx a ip4:37.187.20.171 ip6:2001:41d0:a:14ab::1 -all"
 mail._domainkey		TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHIeDS3tixfVUaFQE1CMAXkp1S4n2FP/ybjs2kOhQGxECB5BYJApubLKkhPUSZ55UVmJk1ztPkcyyoHDCH8r8b0SUhdMF9omM1L5/bqO85L+B/zYQDPM6VJO0AZGOz3RgwByzNH87l9+MeJppWpnTAJp84e0nq/cP9RInVY0oAZQIDAQAB"
 
-*                       A       91.121.101.210
-*                       AAAA    2001:41d0:1:9ad2::1
+*                       A       37.187.20.171
+*                       AAAA    2001:41d0:a:14ab::1
 
 bmc                     CNAME   mlang.github.io.
 
 home                    A       84.115.55.45
-home                    SSHFP   1 1 049608d08bbc44a9974aa41b4d04f57692a94c9b
-home                    SSHFP   1 2 994dcdc9d6262ca57ff068eb9255e9bdc626558b7738db5c29cf9b34dbcb9f96
-home                    SSHFP   2 1 b44bf1b020a5357aedf6cd35e2d0dd5aa6769756
-home                    SSHFP   2 2 12f692275ed7172f203ea3e83ba52dfc58551ca0c78c5bcc7abc580668bb0bdf
-home                    SSHFP   3 1 44b4fb00d14081775bac0011338d567412584043
-home                    SSHFP   3 2 1395405bc973490dc2aa6c97eb14ae79d582a1ab4ee1efb8dbd519dc8d804dcf
