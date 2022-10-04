@@ -4,9 +4,9 @@
                         NS      ns4.luadns.net.
                         NS      ns5.luadns.net.
 
-@                       A       37.187.20.171
+@                       A       37.252.188.71
 @                       MX      7 familiekainz.at.
-@                       AAAA    2001:41d0:a:14ab::1
+@                       AAAA    2a00:63c1:d:71::2
 
-*                       A       37.187.20.171
-*                       AAAA    2001:41d0:a:14ab::1
+*                       A       37.252.188.71
+*                       AAAA    2a00:63c1:d:71::2
