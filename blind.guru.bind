@@ -1,3 +1,5 @@
+$TTL 600
+
                         NS      ns1.luadns.net.
                         NS      ns2.luadns.net.
                         NS      ns3.luadns.net.
