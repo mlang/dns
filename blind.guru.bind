@@ -7,7 +7,7 @@ $TTL 600
                         NS      ns5.luadns.net.
 
 @                       A       37.252.188.71
-@                       MX      7 familiekainz.at.
+@                       MX      7 blind.guru.
 @                       AAAA    2a00:63c1:d:71::2
 @                       TXT     "v=spf1 mx a ip4:37.252.188.71 ip6:2a00:63c1:d:71::2 -all"
 mail._domainkey		TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHIeDS3tixfVUaFQE1CMAXkp1S4n2FP/ybjs2kOhQGxECB5BYJApubLKkhPUSZ55UVmJk1ztPkcyyoHDCH8r8b0SUhdMF9omM1L5/bqO85L+B/zYQDPM6VJO0AZGOz3RgwByzNH87l9+MeJppWpnTAJp84e0nq/cP9RInVY0oAZQIDAQAB"

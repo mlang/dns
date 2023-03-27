@@ -7,7 +7,7 @@ $TTL 600
                         NS      ns5.luadns.net.
 
 @                       A       37.252.188.71
-@                       MX      7 familiekainz.at.
+@                       MX      7 blind.guru.
 @                       AAAA    2a00:63c1:d:71::2
 
 *                       A       37.252.188.71
